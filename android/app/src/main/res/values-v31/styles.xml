@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+
+        <!-- fundo -->
+        <item name="android:windowSplashScreenBackground">@android:color/white</item>
+
+        <!-- sua logo -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo</item>
+
+        <!-- tempo -->
+        <item name="android:windowSplashScreenAnimationDuration">300</item>
+
+    </style>
+
+</resources>

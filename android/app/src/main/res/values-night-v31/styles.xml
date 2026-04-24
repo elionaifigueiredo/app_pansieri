@@ -1,0 +1,9 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- 🔥 REMOVE SPLASH ANDROID 12 -->
+        <item name="android:windowSplashScreenBackground">@android:color/white</item>
+        <!-- <item name="android:windowSplashScreenAnimatedIcon">@null</item> -->
+    </style>
+</resources>
